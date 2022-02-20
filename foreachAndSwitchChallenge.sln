@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreachAndSwitchChallenge", "foreachAndSwitchChallenge\foreachAndSwitchChallenge.csproj", "{750F6855-1BEA-4580-A1EF-7FB5BA722E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750F6855-1BEA-4580-A1EF-7FB5BA722E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750F6855-1BEA-4580-A1EF-7FB5BA722E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750F6855-1BEA-4580-A1EF-7FB5BA722E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750F6855-1BEA-4580-A1EF-7FB5BA722E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5B11A28-91B1-4C08-A726-FB226AEF62A6}
+	EndGlobalSection
+EndGlobal
