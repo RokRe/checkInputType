@@ -58,6 +58,9 @@ namespace foreachAndSwitchChallenge
                     {
                         Console.WriteLine("It is an invalid {0} entry", inputValueType);
                     }
+                    Console.WriteLine("Press any key to enter new value");
+                    Console.ReadLine();
+                    Console.Clear();
 
                 }
                 else
